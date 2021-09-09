@@ -1,5 +1,9 @@
 package com.logos.lesson12.Site;
 
+import com.logos.lesson12.Site.exceptions.EmailIncorrectException;
+import com.logos.lesson12.Site.exceptions.PasswordsDontMatchException;
+import com.logos.lesson12.Site.exceptions.WrongDataException;
+
 import java.util.LinkedList;
 import java.util.Scanner;
 import java.util.regex.Matcher;
@@ -16,7 +20,13 @@ public class Terminal {
             int choice = scanner.nextInt();
 
             switch (choice){
-                case 1: login(); break;
+                case 1:
+                    try {
+                        login();
+                    } catch (WrongDataException e) {
+                        e.printStackTrace();
+                    }
+                    break;
                 case 2: signUp(); break;
             }
         }
@@ -33,7 +43,11 @@ public class Terminal {
             Matcher matcher = pattern.matcher(email);
 
             if (matcher.matches()) emailIncorrect = false;
-            else System.out.println("Email incorrect. Please try again.");
+            else try {
+                throw new EmailIncorrectException(email);
+            } catch (EmailIncorrectException e) {
+                e.printStackTrace();
+            }
         }
 
         String password = "";
@@ -48,15 +62,21 @@ public class Terminal {
 
             if (password.equals(password2)) matchPasswords = false;
             if (!password.equals(password2)) {
-                System.out.println("Passwords don't match. Try again.");
                 matchPasswords = true;
+                try {
+
+                    throw new PasswordsDontMatchException();
+                } catch (PasswordsDontMatchException e){
+                    e.printStackTrace();
+                }
+
             }
         }
 
         db.add(new User(email, password));
     }
 
-    private void login() {
+    private void login() throws WrongDataException {
         System.out.print("Enter email: ");
         String email = scanner.next();
         System.out.print("Enter password: ");
@@ -66,7 +86,7 @@ public class Terminal {
             System.out.println("Logged in");
             System.exit(0);
         } else {
-            System.out.println("Wrong data.");
+            throw new WrongDataException("Wrong data");
         }
 
     }
