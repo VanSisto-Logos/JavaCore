@@ -1,0 +1,17 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ô’Ñûşÿÿÿÿ
+T
+java:S1854*">Remove this useless assignment to local variable "linkedList".(À®Ïä
+3
+java:S2119"Save and re-use this "Random".(¼İÅf
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºµœØøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºµœØøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºµœØøÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(‰¾Ï£
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(‰¾Ï£
+S	java:S106("9Replace this use of System.out or System.err by a logger.(“šÊ×øÿÿÿÿ
+E
+java:S1481*"/Remove this unused "linkedList" local variable.(À®Ïä
+H
+java:S1128"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
