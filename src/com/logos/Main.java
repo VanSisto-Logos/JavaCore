@@ -3,7 +3,7 @@ package com.logos;
 public class Main {
 
     public static void main(String[] args) {
-        int a = 5;
-        int b = 9;
+        int a = 0;
+        int b = 0;
     }
 }
