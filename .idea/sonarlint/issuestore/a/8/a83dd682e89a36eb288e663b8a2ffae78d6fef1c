@@ -1,0 +1,16 @@
+
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¨ÕÉ
+‰
+java:S4165A"lRemove this useless assignment; "matchPasswords" already holds the assigned value along all execution paths.(üÉÿ8™ÌË¦¾/
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êê„•
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Í«ä¼
+7	java:S131""Add a default case to this switch.(¨ÕÉ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(¿²İÿøÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(åş¿ç
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(”®òÅ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(¿²İÿøÿÿÿÿ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(åş¿ç
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(œ€©Èøÿÿÿÿ
