@@ -1,0 +1,14 @@
+
+E
+java:S3740	"/Provide the parametrized type for this generic.(Ÿ®à’
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ð£µÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸¬³©ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ð›ÇÊøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ü»ÇÑ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Çõ ±üÿÿÿÿ
+I
+java:S3011",This accessibility update should be removed.(‰¬Þ¢8ÿÐÚÿ¾/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËÍâ²
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Š¹ÐÊøÿÿÿÿ
+U
+java:S2259"?A "NullPointerException" could be thrown; "u" is nullable here.(Ð£µÿ
