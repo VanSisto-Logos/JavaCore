@@ -1,7 +1,5 @@
 package com.logos.lesson20.codeTime;
 
-import com.logos.Threads;
-
 import java.util.ArrayDeque;
 import java.util.Deque;
 

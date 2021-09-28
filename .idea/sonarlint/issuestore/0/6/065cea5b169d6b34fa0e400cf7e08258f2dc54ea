@@ -1,0 +1,11 @@
+
+X
+java:S1854";Remove this useless assignment to local variable "integer".( Ñˆ8õ‡ Á/
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8Çô– Á/
+>
+java:S2129"!Remove this "Integer" constructor( Ñˆ8Øü† Á/
+I
+java:S1481",Remove this unused "integer" local variable.( Ñˆ8¡õ‡ Á/
+]	java:S125"<This block of commented-out lines of code should be removed.(Ë¯Ì¦øÿÿÿÿ8ä•‡ Á/
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(Ñ¨Šâ8ÿ–ºŸÁ/

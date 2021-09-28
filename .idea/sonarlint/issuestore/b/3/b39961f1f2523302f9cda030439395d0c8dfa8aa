@@ -1,0 +1,6 @@
+
+X	java:S125#"<This block of commented-out lines of code should be removed.(Ñßì8–… Á/
+T	java:S106*"9Replace this use of System.out or System.err by a logger.(íÁF8ï¤… Á/
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8ğ¤… Á/
+D
+java:S2189(""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ü¤… Á/

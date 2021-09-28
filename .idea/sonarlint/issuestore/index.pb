@@ -31,3 +31,21 @@ P
  src/com/logos/lesson14/Main.java,5/7/57f5b84cbd20b24bf9da07b3538520512aa8b288
 [
 +src/com/logos/lesson16/work/Calculator.java,a/c/acd0bad42e250a91ce11d3c61ea03332469e9dfc
+X
+(src/com/logos/lesson18/bank/Account.java,9/6/967b771fdd7649ac86c10d83a65ff277a732f952
+U
+%src/com/logos/lesson18/bank/User.java,f/d/fd8eb6eeda9b7ba37e0961526202e9bdc0b04b79
+\
+,src/com/logos/lesson18/bank/UserService.java,8/4/848f29f9f4c83d072b918d43b23a6a1286042f45
+h
+8src/com/logos/lesson18/bank/TaxCalculatorForAccount.java,2/6/2608d9f27a1eea103a22989f71d498191404a5be
+X
+(src/com/logos/lesson18/bank/UsersDB.java,8/9/897e3220758118e5723bdfba618ed3e297cb26b1
+]
+-src/com/logos/lesson18/bank/DebitAccount.java,8/5/8566f8bd21773609ec46bcd585f543fb744a0cb4
+P
+ src/com/logos/lesson18/Main.java,e/5/e50ffa40b550ead4dd44b934ad2a636206c47ea0
+T
+$src/com/logos/lesson18/Generics.java,2/8/281ef24465759718d2fc8e9e832230c0de1ba274
+Y
+)src/com/logos/lesson18/bank/Terminal.java,5/4/544c44b4be73ca206ad5a3345a91f8134ec75463
