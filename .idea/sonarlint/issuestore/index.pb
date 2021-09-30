@@ -49,3 +49,9 @@ T
 $src/com/logos/lesson18/Generics.java,2/8/281ef24465759718d2fc8e9e832230c0de1ba274
 Y
 )src/com/logos/lesson18/bank/Terminal.java,5/4/544c44b4be73ca206ad5a3345a91f8134ec75463
+Y
+)src/com/logos/lesson20/codeTime/Main.java,6/c/6c6b8c5c0e6bdfc374fa14e98ea3d94317f9517d
+P
+ src/com/logos/lesson22/Main.java,3/3/33beacccea98f312e6321344e5d6e558dbb5baeb
+P
+ src/com/logos/lesson22/User.java,d/6/d6003ce7b535ea9f56e6e1e40b800245efd7b48e
